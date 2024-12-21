@@ -1,4 +1,5 @@
 {
+  "use_env_variable": "POSTGRESSQL_URL",
   "development": {
     "username": "crudexercisedb",
     "password": "GKtjdjAatP25YZPF0K2vJ8tkCfGC4xz7",
