@@ -1,5 +1,4 @@
 {
-  "use_env_variable": "POSTGRESSQL_URL",
   "development": {
     "username": "crudexercisedb",
     "password": "GKtjdjAatP25YZPF0K2vJ8tkCfGC4xz7",
@@ -21,10 +20,7 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "crudexercisedb",
-    "password": "GKtjdjAatP25YZPF0K2vJ8tkCfGC4xz7",
-    "database": "crudexercisedb_nl8u",
-    "host": "dpg-ctjiiit2ng1s73bjvnsg-a.singapore-postgres.render.com",
+    "use_env_variable": "POSTGRESSQL_URL",
     "dialect": "postgres",
     "dialectOptions": {
       "ssl": {
