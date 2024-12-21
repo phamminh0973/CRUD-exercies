@@ -1,9 +1,9 @@
 {
   "development": {
     "username": "crudexercisedb",
-    "password": "Bma8kwtofimDNEonCp3KfqQ6WbbcNMNP",
-    "database": "crudexercisedb",
-    "host": "dpg-ct8orpt6l47c73d5o2bg-a.singapore-postgres.render.com",
+    "password": "GKtjdjAatP25YZPF0K2vJ8tkCfGC4xz7",
+    "database": "crudexercisedb_nl8u",
+    "host": "dpg-ctjiiit2ng1s73bjvnsg-a.singapore-postgres.render.com",
     "dialect": "postgres",
     "dialectOptions": {
       "ssl": {
@@ -21,9 +21,9 @@
   },
   "production": {
     "username": "crudexercisedb",
-    "password": "Bma8kwtofimDNEonCp3KfqQ6WbbcNMNP",
-    "database": "crudexercisedb",
-    "host": "dpg-ct8orpt6l47c73d5o2bg-a.singapore-postgres.render.com",
+    "password": "GKtjdjAatP25YZPF0K2vJ8tkCfGC4xz7",
+    "database": "crudexercisedb_nl8u",
+    "host": "dpg-ctjiiit2ng1s73bjvnsg-a.singapore-postgres.render.com",
     "dialect": "postgres",
     "dialectOptions": {
       "ssl": {
